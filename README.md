@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+## Screenshots
+
+![]()
+
 ## Build Setup
 
 ``` bash
