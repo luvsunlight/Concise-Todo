@@ -4,7 +4,7 @@
 
 ## Screenshots
 
-![]()
+![main.gif](https://github.com/luvsunlight/Concise-Todo/blob/master/screenshots/main.gif)
 
 ## Build Setup
 
